@@ -1,0 +1,11 @@
+.signup{
+    align-items: center;
+}
+.container{
+    width: 1000px;
+}
+.signup_inner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
